@@ -1,4 +1,4 @@
-package com.myskills;
+package com.fellipe.myskills;
 
 import com.facebook.react.ReactActivity;
 import org.devio.rn.splashscreen.SplashScreen;
